@@ -70,7 +70,4 @@ while exit == False:
             user_points += 1
         print("Você ", user_points, "x", computer_points, " Computador")
  
-
-    elif user_input != "pedra" or user_input != "papel" or user_input != "tesoura":
-        print("Resposta inválida")
          
